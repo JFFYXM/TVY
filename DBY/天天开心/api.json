@@ -1076,8 +1076,8 @@
             "name": "🐯虎牙直播",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/huyazhibo.js"
         },
@@ -1086,8 +1086,8 @@
             "name": "🐟斗鱼直播",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/douyu.js"
         },
@@ -1116,8 +1116,8 @@
             "name": "🅱️哔哩直播",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "ext": "./js/blzb.js"
         },
