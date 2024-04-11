@@ -377,7 +377,7 @@
             "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "斗鱼js",
@@ -392,7 +392,7 @@
             "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "聚短视频js",
