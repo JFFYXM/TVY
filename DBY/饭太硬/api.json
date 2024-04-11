@@ -360,7 +360,7 @@
             "type": 3,
             "api": "csp_Yj1211",
             "playerType": "1",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
         },
@@ -375,8 +375,8 @@
                 "ratio": 1.755
             },
             "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0
         },
         {
@@ -390,8 +390,8 @@
                 "ratio": 1.755
             },
             "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0
         },
         {
