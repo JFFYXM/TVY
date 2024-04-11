@@ -395,6 +395,16 @@
             "changeable": 0
         },
         {
+            "key": "哔哩直播",
+            "name": "🅱️哔哩直播",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://github.jiangfeifan.com/https://raw.githubusercontent.com/JFFYXM/TVY/master/DBY/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/js/blzb.js"
+        },
+        {
             "key": "聚短视频js",
             "name": "📽️聚短┃视频",
             "type": 3,
