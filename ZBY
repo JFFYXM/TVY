@@ -17,4 +17,4 @@ CCTV13,http://8.134.211.236:13556/china/cctv.php?id=cctv13
 CCTV14,http://8.134.211.236:13556/china/cctv.php?id=cctv14
 CCTV15,http://8.134.211.236:13556/china/cctv.php?id=cctv15
 CCTV16,http://8.134.211.236:13556/china/cctv.php?id=cctv16
-CCTV17,http://8.134.211.236:13556/china/cctv.php?id=cctv17 CCTV1,http://123.101.98.20:9898/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 CCTV1,http://123.163.114.224:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 CCTV1,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 CCTV1,http://111.225.112.123:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/00
+CCTV17,http://8.134.211.236:13556/china/cctv.php?id=cctv17
