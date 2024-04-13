@@ -5,6 +5,8 @@
 厦门一台,rtsp://27.148.240.189/PLTV/88888888/224/3221227122/66931161.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~Qz19ET3hU-M9sasRcYVmxg~PP035ej_ErOiuBQGbTcTbsVCzWtl0f3igiwZvLC_mQYwiDquPDWaY80F_LWFUEowQg9jTsIz3sONKUg3ohm7po1U__txexXnfmbnrZA_evE~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20220602115923,2083064,120.41.22.107,20220602115923,Umai:CHAN/5884077@BESTV.STA.SMG,208306420220602115923,-1,0,1,,,2,,,,2,END&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLRiivTVcYExNTF6BbM7YDEgaoLZj490JlNzPnnsydHWg8H-W4EDGPbzXJmGkg6sZWTWZD96p8xDmPkoLHieAiY_UmnQhaeQhZtQxPdPuyihW6T6dRGt9wS_BdHHFvuzDfHO2YYb0_j7I0iTKRp3FaCDZv1xp8vxL2Al9OgwWH5jK1QZANkEdmQffQooIB_-2Dd3VmbfIDXQVKHNYAAAA
 厦门二台,rtsp://27.148.240.189/PLTV/88888888/224/3221227183/66927922.smil?rrsip=27.148.240.138&zoneoffset=480&icpid=bestv&accounttype=1&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~EzoeUmrD-7J4AVftgD-jaw~PP035ej_ErOiuBQGbTcTbsVCzWtl0f3igiwZvLC_mQYwiDquPDWaY80F_LWFUEowQg9jTsIz3sONKUg3ohm7po1U__txexXnfmbnrZA_evE~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==:20220602115923,2083064,120.41.22.107,20220602115923,Umai:CHAN/5884079@BESTV.STA.SMG,208306420220602115923,-1,0,1,,,2,,,,2,END&GuardEncType=2&it=H4sIAAAAAAAAAC2Oyw6CMBBF_6bLRiivTVcYExNTF6BbM7YDEgaoLZj490JlNzPnnsydHWg8H-W4EDGPbzXJmGkg6sZWTWZD96p8xDmPkoLHieAiY_UmnQhaeQhZtQxPdPuyihW6T6dRGt9wS_BdHHFvuzDfHO2YYb0_j7I0iTKRp3FaCDZv1xp8vxL2Al9OgwWH5jK1QZANkEdmQffQooIB_-2Dd3VmbfIDXQVKHNYAAAA
 厦门卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+央视,#genre#
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -25,46 +27,27 @@ CCTV14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/i
 CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 IPTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CHC动作电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,rtsp://27.148.239.97:554/live/ch22120910414486061254.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch22120910414486061254&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPV1IC%2F6lHiuArg0C7ZG77nwpIGm3zJyj7tYpZa1LK06EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV2,rtsp://27.148.239.97:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208064869858322&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPEMT5SJ1uhVY%2FkLQsKaLeYoG56u%2BqAqf%2BymuR2s0KwAEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV3,rtsp://27.148.239.97:554/live/ch20122816275150505818.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816275150505818&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFVXeC43%2B9I9OcZnpE17BEoGEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV4,rtsp://27.148.239.97:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17081011542536199690&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGFijaL9amioByKD1HXKMtGIsRey7XGJae3YxtScBskxEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV5,rtsp://27.148.239.97:554/live/ch20122816284434600276.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816284434600276&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFU%2BLQbLrUy4z9JQJchzCjtjEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV5+,rtsp://27.148.239.97:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092110522954055086&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGTxlvw0F2lJPe7EpFvoARqKafc8rhFIRsmz8OLBz5c7EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV6,rtsp://27.148.239.97:554/live/ch20122816292260718026.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816292260718026&ctype=5&TSTVTimeLife=60&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFUL6ZzQ%2B6Hsp%2F61MFFaiaJOEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV7,rtsp://27.148.239.97:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208080814677315&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPEMT5SJ1uhVY%2FkLQsKaLeYer71DUsjsEd6TJVfXhLiYEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV8,rtsp://27.148.239.97:554/live/ch20122816295372138106.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816295372138106&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFWOFZEikbZHReRUK5X516XsEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV9,rtsp://27.148.239.97:554/live/ch17092110534875474266.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092110534875474266&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGTxlvw0F2lJPe7EpFvoARoQLa%2BdIl%2Bk9GQKKPumUIrNEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV10,rtsp://27.148.239.97:554/live/ch17092208093413465804.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208093413465804&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPEMT5SJ1uhVY%2FkLQsKaLeaOtTJj9CSIh62B4Dnx7mv6EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV11,rtsp://27.148.239.97:554/live/ch15102717162059665205.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch15102717162059665205&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfLUTI0BpJ2360byL%2FNRA3N45V3h%2FJgvmRLBNAGwqrcFPEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV12,rtsp://27.148.239.97:554/live/ch17092208110147271148.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208110147271148&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfFQFTrWouKZyWPBB%2FZnBS5mY2M5YsGRAquwxbz%2FnMIc1EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV13,rtsp://27.148.239.97:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch15102717162008550635&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfLUTI0BpJ2360byL%2FNRA3N6nRWVEZWcM2ehQ7iSKfIx8EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=8000&distype=0
+CCTV14,rtsp://27.148.239.97:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208120898287250&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfFQFTrWouKZyWPBB%2FZnBS5nJnwW%2BlaY5A18ykrfFvvr5EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV15,rtsp://27.148.239.97:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch15102717162037072744&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfLUTI0BpJ2360byL%2FNRA3N7cd1ED8I%2FNgp3vD6ssp9LzEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV16,rtsp://27.148.239.97:554/live/ch23071910174599459267.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch23071910174599459267&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfCFggXwrARn4Zn2nXnf%2FQbwjNbni4x9aWvntukKqwkyGEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV17,rtsp://27.148.239.97:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch19073116244855666953&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGK3z5IJO5F8cTcMS985ZzrYUWgteTyEdwllEceS6ojIEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
+CCTV4K,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch24012916163414875758.rsc/62563_Uni.sdp?
+CCTV4K,rtsp://27.148.239.97:554/live/ch24012916163414875758.sdp?playtype=1&boid=001&backupagent=27.148.221.1:554&clienttype=1&time=20240130223518+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5962752328653&mediaid=ch24012916163414875758&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=00106135000100100001B3FE8668A8D2&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=CVeTQGGyNBI%2BmRPx8%2Bb5b38rItlPHaKzpf0AUaQajQsncmgPaAltabUmJVDs2CN5liECdsYWQMhDvsyp5F1%2B1A%3D%3D&bitrate=2000&distype=0
 
-爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-精彩电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-精彩电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-上海纪实人文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京冬奥纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001018/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001021/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001840/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -102,6 +85,76 @@ IPTV相声小品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 中国教育3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国教育4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国交通,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001325/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+CCTV1,http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
+CCTV2,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
+CCTV3,http://112.50.243.8/PLTV/88888888/224/3221227055/1.m3u8
+CCTV4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
+CCTV5,http://112.50.243.8/PLTV/88888888/224/3221227170/1.m3u8
+CCTV6,http://112.50.243.8/PLTV/88888888/224/3221227137/1.m3u8
+CCTV7,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
+CCTV8,http://112.50.243.8/PLTV/88888888/224/3221227174/1.m3u8
+CCTV9,http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
+CCTV10,http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
+CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
+CCTV12,http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
+CCTV13,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
+CCTV14,http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
+CCTV15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+CCTV16,http://112.50.243.8/PLTV/88888888/224/3221227125/1.m3u8
+CCTV17,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
+CCTV5+,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
+CCTV16 4K,http://112.50.243.8/PLTV/88888888/224/3221227162/1.m3u8
+CGTN 英语,http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
+CGTN 纪录,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8
+CGTN 俄语,http://112.50.243.8/PLTV/88888888/224/3221227103/1.m3u8
+CGTN 法语,http://112.50.243.8/PLTV/88888888/224/3221227220/1.m3u8
+CGTN 西语,http://112.50.243.8/PLTV/88888888/224/3221227238/1.m3u8
+CGTN 阿语,http://112.50.243.8/PLTV/88888888/224/3221227224/1.m3u8
+
+CHC动作电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC家庭影院 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CHC高清电影 8M1080,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+精彩体育,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+精彩电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+精彩电视剧,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+精彩综艺,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+卫视,#genre#
+东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+上海纪实人文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+北京冬奥纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南金鹰纪实,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 东南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001041/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 云南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -166,6 +219,7 @@ NNM家庭理财,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001669/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001600/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西西部电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -367,26 +421,6 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 莆田新闻综合,rtsp://27.148.239.97:554/live/ch18021018571856751097.sdp?playtype=1&FccMediaIP=239.61.2.209&FccMediaPort=9242&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5982751283701&mediaid=ch18021018571856751097&ctype=2&TSTVTimeLife=0&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKO4cNIVzHdhCT%2FUsUfuVlGZK83ohXT4Xe0c7oaHRXlwEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
 凤凰中文,rtsp://27.148.219.129:554/live/ch18011614354694706611.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614354694706611&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wz7gphRsY4rBgMC6H9%2FFx%2BJ%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000
 凤凰资讯,rtsp://27.148.219.129:554/live/ch18011614353125275996.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117153251+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch18011614353125275996&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ucGvhYDHLV%2B%2FRrJjG87A6Wy4udrzyR0CwgM8C6S9RDQy%2Bc8vhCO%2FxiEMdz%2F0nF%2FHDw%3D%3D&bitrate=8000
-CCTV1,rtsp://27.148.239.97:554/live/ch22120910414486061254.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch22120910414486061254&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPV1IC%2F6lHiuArg0C7ZG77nwpIGm3zJyj7tYpZa1LK06EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV2,rtsp://27.148.239.97:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208064869858322&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPEMT5SJ1uhVY%2FkLQsKaLeYoG56u%2BqAqf%2BymuR2s0KwAEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV3,rtsp://27.148.239.97:554/live/ch20122816275150505818.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816275150505818&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFVXeC43%2B9I9OcZnpE17BEoGEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV4,rtsp://27.148.239.97:554/live/ch17081011542536199690.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17081011542536199690&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGFijaL9amioByKD1HXKMtGIsRey7XGJae3YxtScBskxEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV5,rtsp://27.148.239.97:554/live/ch20122816284434600276.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816284434600276&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFU%2BLQbLrUy4z9JQJchzCjtjEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV5+,rtsp://27.148.239.97:554/live/ch17092110522954055086.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092110522954055086&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGTxlvw0F2lJPe7EpFvoARqKafc8rhFIRsmz8OLBz5c7EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV6,rtsp://27.148.239.97:554/live/ch20122816292260718026.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816292260718026&ctype=5&TSTVTimeLife=60&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFUL6ZzQ%2B6Hsp%2F61MFFaiaJOEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV7,rtsp://27.148.239.97:554/live/ch17092208080814677315.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208080814677315&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPEMT5SJ1uhVY%2FkLQsKaLeYer71DUsjsEd6TJVfXhLiYEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV8,rtsp://27.148.239.97:554/live/ch20122816295372138106.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch20122816295372138106&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfKZV%2BHhNjuPhL1LijH%2FcAFWOFZEikbZHReRUK5X516XsEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV9,rtsp://27.148.239.97:554/live/ch17092110534875474266.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092110534875474266&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGTxlvw0F2lJPe7EpFvoARoQLa%2BdIl%2Bk9GQKKPumUIrNEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV10,rtsp://27.148.239.97:554/live/ch17092208093413465804.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208093413465804&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfPEMT5SJ1uhVY%2FkLQsKaLeaOtTJj9CSIh62B4Dnx7mv6EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV11,rtsp://27.148.239.97:554/live/ch15102717162059665205.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch15102717162059665205&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfLUTI0BpJ2360byL%2FNRA3N45V3h%2FJgvmRLBNAGwqrcFPEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV12,rtsp://27.148.239.97:554/live/ch17092208110147271148.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208110147271148&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfFQFTrWouKZyWPBB%2FZnBS5mY2M5YsGRAquwxbz%2FnMIc1EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV13,rtsp://27.148.239.97:554/live/ch15102717162008550635.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch15102717162008550635&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfLUTI0BpJ2360byL%2FNRA3N6nRWVEZWcM2ehQ7iSKfIx8EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=8000&distype=0
-CCTV14,rtsp://27.148.239.97:554/live/ch17092208120898287250.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17092208120898287250&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfFQFTrWouKZyWPBB%2FZnBS5nJnwW%2BlaY5A18ykrfFvvr5EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV15,rtsp://27.148.239.97:554/live/ch15102717162037072744.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch15102717162037072744&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfLUTI0BpJ2360byL%2FNRA3N7cd1ED8I%2FNgp3vD6ssp9LzEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV16,rtsp://27.148.239.97:554/live/ch23071910174599459267.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch23071910174599459267&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfCFggXwrARn4Zn2nXnf%2FQbwjNbni4x9aWvntukKqwkyGEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV17,rtsp://27.148.239.97:554/live/ch19073116244855666953.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch19073116244855666953&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfGK3z5IJO5F8cTcMS985ZzrYUWgteTyEdwllEceS6ojIEB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
-CCTV4K,rtsp://27.148.239.102:1554/iptv/import/Tvod/iptv/001/001/ch24012916163414875758.rsc/62563_Uni.sdp?
-CCTV4K,rtsp://27.148.239.97:554/live/ch24012916163414875758.sdp?playtype=1&boid=001&backupagent=27.148.221.1:554&clienttype=1&time=20240130223518+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5962752328653&mediaid=ch24012916163414875758&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=00106135000100100001B3FE8668A8D2&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=CVeTQGGyNBI%2BmRPx8%2Bb5b38rItlPHaKzpf0AUaQajQsncmgPaAltabUmJVDs2CN5liECdsYWQMhDvsyp5F1%2B1A%3D%3D&bitrate=2000&distype=0
 
 
 CETV1,rtsp://27.148.239.97:554/live/ch17081012040985783403.sdp?playtype=1&boid=001&backupagent=27.148.239.97:554&clienttype=1&time=20240108194953+08&life=172800&ifpricereqsnd=0&vcdnid=001&userid=5982751283701&mediaid=ch17081012040985783403&ctype=5&TSTVTimeLife=7200&contname=&authid=0&UserLiveType=0&stbid=CA100499007037300000585FF68AB06E&nodelevel=3&terminalflag=1&profilecode=&AuthInfo=zrSuWFD00zPTxN3AAWWUfDDywpREs9jtdYXe8FuTQs80kXczJFPhx6Nr3v3MwIW2EB309X61Vl2LLRC%2FxlI04A%3D%3D&bitrate=2000&distype=0
@@ -506,31 +540,7 @@ CHC动作电影,rtsp://27.148.239.97:554/live/ch22091415255480246214.sdp?playtyp
 平潭,http://112.50.243.8/PLTV/88888888/224/3221227218/1.m3u8
 南平新闻综合,http://112.50.243.8/PLTV/88888888/224/3221227066/1.m3u8
 南平公共,http://112.50.243.8/PLTV/88888888/224/3221226956/1.m3u8
-CCTV1,http://112.50.243.8/PLTV/88888888/224/3221226908/1.m3u8
-CCTV2,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-CCTV3,http://112.50.243.8/PLTV/88888888/224/3221227055/1.m3u8
-CCTV4,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-CCTV5,http://112.50.243.8/PLTV/88888888/224/3221227170/1.m3u8
-CCTV6,http://112.50.243.8/PLTV/88888888/224/3221227137/1.m3u8
-CCTV7,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-CCTV8,http://112.50.243.8/PLTV/88888888/224/3221227174/1.m3u8
-CCTV9,http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
-CCTV10,http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
-CCTV11,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-CCTV12,http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
-CCTV13,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-CCTV14,http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
-CCTV15,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-CCTV16,http://112.50.243.8/PLTV/88888888/224/3221227125/1.m3u8
-CCTV17,http://112.50.243.8/PLTV/88888888/224/3221226986/1.m3u8
-CCTV5+,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
-CCTV16 4K,http://112.50.243.8/PLTV/88888888/224/3221227162/1.m3u8
-CGTN 英语,http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
-CGTN 纪录,http://112.50.243.8/PLTV/88888888/224/3221225813/1.m3u8
-CGTN 俄语,http://112.50.243.8/PLTV/88888888/224/3221227103/1.m3u8
-CGTN 法语,http://112.50.243.8/PLTV/88888888/224/3221227220/1.m3u8
-CGTN 西语,http://112.50.243.8/PLTV/88888888/224/3221227238/1.m3u8
-CGTN 阿语,http://112.50.243.8/PLTV/88888888/224/3221227224/1.m3u8
+
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221227059/1.m3u8
 湖南卫视,http://112.50.243.8/PLTV/88888888/224/3221227232/1.m3u8
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221227160/1.m3u8
