@@ -19,7 +19,7 @@ var rule = {
     filterable: 1,
     filter_url: '{{fl.area}}',
     filter_def:{
-        8:{area:'2135'},
+        8:{area:'1663'},
         1:{area:'1'},
         2:{area:'7601'},
         3:{area:'2336'}
