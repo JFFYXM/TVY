@@ -402,7 +402,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/js/blzb.js"
+            "ext": "./js/bilibilizhibo"
         },
         {
             "key": "聚短视频js",
