@@ -543,7 +543,7 @@
             "key": "索尼资源",
             "name": "🎦索尼┃2K",
             "type": 1,
-            "api": "./api/suoni",
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
