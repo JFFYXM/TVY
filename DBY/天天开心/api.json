@@ -590,7 +590,7 @@
             "key": "91zy",
             "name": "🎦91资源",
             "type": 1,
-            "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/at/xml",
+            "api": "http://bt4.cc/api.php/provide/vod/from/mdm3u8/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
