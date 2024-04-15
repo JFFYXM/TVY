@@ -649,17 +649,17 @@
             ]
         },
         {
-            "key": "探探小说美图",
-            "name": "🎦探探小说美图",
+            "key": "SDS",
+            "name": "🎦SDS",
             "type": 1,
-            "api": "https://apittzy.com/api.php/provide/art/?ac=list",
+            "api": "https://sdszyapi.com/cjapi/mc/vod/json.html",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "categories": [
-                "网友自拍",
-                "唯美写真",
+                "日韩无码",
+                "欧美无码",
                 "露出激情",
                 "街拍偷拍",
                 "丝袜美腿",
