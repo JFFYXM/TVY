@@ -597,10 +597,23 @@
             "changeable": 1,
             "categories": [
                 "麻豆视频",
-                "纪录片",
-                "欧美剧",
-                "香港剧",
-                "动作片",
+            ]
+        },
+        {
+            "key": "KKzy",
+            "name": "🎦KK资源",
+            "type": 1,
+            "api": "https://kkzy.me/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理片",
+                "写真资源",
+                "动漫",
+                "短视频主播",
+                "两性课堂",
                 "爱情片",
                 "科幻片",
                 "恐怖片",
