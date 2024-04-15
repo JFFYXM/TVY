@@ -691,7 +691,7 @@
             "key": "csp_xml_新浪",
             "name": "🎦新浪┃2K",
             "type": 1,
-            "api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
