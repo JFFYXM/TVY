@@ -649,17 +649,17 @@
             ]
         },
         {
-            "key": "DY",
-            "name": "🎦DY",
+            "key": "辣椒",
+            "name": "🌶辣椒",
             "type": 1,
-            "api": "https://www.888dav.com/api.php/provide/vod/?ac=list",
+            "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "categories": [
-                "最新 国产",
-                "今日更新",
+                "首页",
+                "国产自拍",
                 "无码专区",
                 "街拍偷拍",
                 "丝袜美腿",
