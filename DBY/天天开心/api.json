@@ -650,9 +650,9 @@
         },
         {
             "key": "辣椒",
-            "name": "🌶辣椒",
+            "name": "🌶辣椒1",
             "type": 1,
-            "api": "https://apilj.com/api.php/provide/vod/at/json/?ac=list",
+            "api": "https://apilj.com/api.php/Seacms/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
