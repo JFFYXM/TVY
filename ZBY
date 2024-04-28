@@ -19,3 +19,17 @@ CCTV15,http://8.134.211.236:13556/china/cctv.php?id=cctv15
 CCTV16,http://8.134.211.236:13556/china/cctv.php?id=cctv16
 CCTV17,http://8.134.211.236:13556/china/cctv.php?id=cctv17
 CCTV20,https://ldncctvwbcdali.v.myalicdn.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100
+CCTV1,igmp://238.1.78.41:6200
+安徽卫视,igmp://238.1.78.42:6208
+CCTV2,igmp://238.1.78.43:6216
+东方卫视,igmp://238.1.78.44:6224
+CCTV新闻,igmp://238.1.78.45:6232
+CCTV4,igmp://238.1.78.46:6240
+CCTV音乐,igmp://238.1.78.47:6248
+CCTV7,igmp://238.1.78.48:6256
+海南卫视,igmp://238.1.78.49:6264
+CGTN,igmp://238.1.78.50:6272
+CCTV10,igmp://238.1.78.51:6280
+CCTV11,igmp://238.1.78.52:6288
+CCTV12,igmp://238.1.78.53:6296
+CCTV少儿,igmp://238.1.78.54:630
